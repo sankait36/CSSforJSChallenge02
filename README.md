@@ -1,4 +1,4 @@
-# Character Creation Workshop
+# Character Creation
 
 In this challenge, you'll build a Sims-style character creation screen.
 
