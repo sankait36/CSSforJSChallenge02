@@ -1,6 +1,6 @@
 # Character Creation Workshop
 
-In this workshop, you'll build a Sims-style character creation screen.
+In this challenge, you'll build a Sims-style character creation screen.
 
 ## Mockups
 
@@ -8,7 +8,7 @@ Desktop:
 
 <img alt="Desktop-sized screenshot of the character creation screen" src="./docs/mockup.png" style="width: 100%;" />
 
-For this workshop, we're only targeting desktops (although if you're so inclined, creating a mobile variant would make a great stretch goal!).
+We're only targeting desktops (although if you're so inclined, creating a mobile variant would make a great stretch goal!).
 
 > Protip: If you're reading this in VS Code, open the Command Palette (Cmd + Shift + P) and select “Markdown: Open Preview to the Side”. That way, you can see all the images in this document!
 
@@ -106,10 +106,5 @@ On mobile devices, the cards should stack horizontally, and sit near the bottom 
 
 <img alt="Screen recording, showing a mobile variant of the application" src="./docs/mobile-variant.gif" style="max-width: 100%" />
 
-**NOTE:** This is a challenging stretch goal! It may require some CSS features we haven't covered yet. This is meant as an extra challenge for advanced students. Feel free to skip it!
+**NOTE:** This is a challenging stretch goal! This is meant as an extra challenge for advanced level. Feel free to skip it!
 
-## Submissions
-
-**Workshops are submitted through the course platform.** Commit your changes, push them to your fork, and submit the link by clicking the "Complete lesson" button on the workshop page.
-
-If you're not comfortable with Git, you can upload a `.zip` file using Dropbox or Google Drive, and paste a link to the public file instead.
