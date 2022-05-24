@@ -3,7 +3,7 @@ import Footer from "./components/Footer";
 import React from "react";
 
 function App() {
-  // edit
+  // edit 2
   return (
     <>
       <CharacterEditor />
