@@ -3,10 +3,10 @@ import Footer from "./components/Footer";
 import React from "react";
 
 function App() {
-  // edit 2
   return (
     <>
       <CharacterEditor />
+      <div className="backdrop"></div>
       <Footer />
     </>
   );
